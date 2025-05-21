@@ -26,7 +26,7 @@ A flexible web scraping tool built with [Crawlee](https://crawlee.dev/) to extra
 
    ```bash
    git clone https://github.com/K4nes/Crawlee-Extraction.git
-   cd crawleeTest
+   cd Crawlee-Extraction
    ```
 
 2. Install dependencies:
